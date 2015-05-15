@@ -1,4 +1,4 @@
-WARNING
+WARNING TENXCLOUD!!!
 ===============
 
 > **Notice:** *The classical python "Docker Registry" is deprecated, in favor of a new golang implementation. This here is kept for historical purpose, and will not receive any significant work/love any more.  You should head to [the landing page of the new registry](https://docs.docker.com/registry) or  [the "Distribution" github project](https://github.com/docker/distribution) instead.*
